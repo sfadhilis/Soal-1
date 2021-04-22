@@ -1,0 +1,6 @@
+print("Assignment week 1")
+print("Soal 1")
+Name = input("Nama Anda:")
+Age = input("Umur Anda:")
+Height = input("Tinggi Anda:")
+print("Nama saya " + Name + "," + "umur saya " + (Age) + "," + "Tinggi saya " + Height)
