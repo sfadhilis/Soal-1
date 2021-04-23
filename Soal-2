@@ -1,0 +1,6 @@
+print("Assignment week 1")
+print("Soal 2")
+phi = 3.14
+r = float(input("Masukkan panjang jari-jari lingkaran: "))
+luas = phi*r*r
+print ("Luas lingkaran dengan jari jari " + str(r) + " cm adalah " + str (luas)) , print ("/u00b2" )
